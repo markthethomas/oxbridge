@@ -1,0 +1,25 @@
+{
+  "name": "oxbridge",
+  "version": "0.0.1",
+  "description": "Simple FS utility for copying large numbers of images",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:markthethomas/oxbridge.git"
+  },
+  "keywords": [
+    "fs",
+    "image",
+    "copy",
+    "compress"
+  ],
+  "author": "mark thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markthethomas/oxbridge/issues"
+  },
+  "homepage": "https://github.com/markthethomas/oxbridge"
+}
